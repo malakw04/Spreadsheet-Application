@@ -1,0 +1,10 @@
+5640|Blanden|Drona|32|18|14|21|36
+5054|Thraves|Lucilia|12|28|31|11|32
+5385|Marsay|Gnni|5|28|24|16|26
+5184|Bygrove|Lennard|22|21|27|17|31
+5459|Close|Alva|25|19|37|18|23
+5875|Lockless|Demetra|12|15|16|7|14
+5904|Drane|Benjy|39|38|37|24|40
+5040|Harty|Conant|33|32|35|23|37
+5557|Deetlof|Ada|34|27|34|19|22
+5236|Mew|Sylvia|35|16|25|14|24
